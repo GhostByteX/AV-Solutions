@@ -2976,7 +2976,7 @@ html {
   
   .text-block-4 {
     width: 600px;
-    height: 100px;
+    height: 150px;
     color: #fff;
     text-align: center;
     margin-top: 53px;
@@ -2985,7 +2985,7 @@ html {
     font-family: League Spartan, sans-serif;
     font-size: 50px;
     font-weight: 600;
-    line-height: 40px;
+    line-height: 50px;
     display: inline-block;
   }
   
